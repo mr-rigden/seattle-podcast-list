@@ -17,8 +17,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
 **[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
-**[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  
-Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
+**[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.
 
 
 ## Podcasts from Seattle Radio Stations
