@@ -8,11 +8,9 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts Produced in Seattle
 *These shows do not have a regional focus but are made in Seattle.*
 
-**[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  
-Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
+- **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**   - Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
 
-**[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  
-Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
+- **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**   - Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
 
 ## Podcasts from Seattle Radio Stations
 *These shows are produced by local radio stations*
