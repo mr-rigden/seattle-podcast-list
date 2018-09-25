@@ -5,16 +5,17 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts About Seattle
 *These are shows that have a regional focus on Seattle.*
 
-
-**[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
+**[NW NERD podcast](http://nw-nerd.com/)**  
 **[Rise Seattle](http://www.riseseattlepodcast.com/)**  
 **[Seattle Growth Podcast](http://seattlegrowthpodcast.com/)**  
 **[Seattle Sucks](https://www.seattle.sucks)**  
+**[Seattle Transit Blog](https://seattletransitblog.com)**  
 
 ## Podcasts Produced in Seattle
 *These shows do not have a regional focus but are made in Seattle.*
 
-
+**[Dirtbag Diaries](http://dirtbagdiaries.com)**  
+**[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  
 Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
@@ -24,6 +25,8 @@ Jason Rigden interviews the people making the cryptocurrency and blockchain revo
 *These shows are from local radio stations*
 
 **[KUOW's Week in Review](https://kuow.org/podcasts/week-in-review/)**  
+**[Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
+**[Your Last Meal](http://mynorthwest.com/category/podcast_results/?sid=1148&n=Your%20Last%20Meal%20with%20Rachel%20Belle)**  
 
 
 ## Inactive Seattle Podcasts
