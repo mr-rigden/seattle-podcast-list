@@ -11,6 +11,11 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  
 Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
 
+**[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  
+Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
+
+## Podcasts from Seattle Radio Stations
+*These shows are produced by local radio stations*
 
 ## Inactive Seattle Podcasts
 *These show have not had a new episode in a least 3 months.*
@@ -21,8 +26,7 @@ dd
 
 ## FAQ
 
-Q. Is this normal?
-
+Q. **Is this normal?**  
 A. Yes. This is normal. Why ...
 
 ## Copyright and License
