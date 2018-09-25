@@ -1,7 +1,5 @@
 # Seattle Podcast List
 
-## Introduction
-
 This is a list of the podcasts being produced in the Seattle metropolitan area. I would like this list to be as complete as possible.  Any podcast in Seattle or anywhere nearby can be added.  [Contributions, corrections, and suggestions are welcome.](https://github.com/jrigden/seattle-podcast-list/issues "Contributions, corrections, and suggestions are welcome.")  If there is a similar list for Portland or Vancouver, I would love to link to them.
 
 ## Podcasts About Seattle
@@ -13,8 +11,13 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  
 Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
 
-## Inactive Podcasts
 
+## Inactive Seattle Podcasts
+*These show have not had a new episode in a least 3 months.*
+
+## Podcasting Resources in Seattle
+*Anything in the region that can help podcasters*
+dd
 
 ## FAQ
 
