@@ -5,22 +5,36 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts About Seattle
 *These are shows that have a regional focus on Seattle.*
 
+
+**[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
+**[Rise Seattle](http://www.riseseattlepodcast.com/)**  
+**[Seattle Growth Podcast](http://seattlegrowthpodcast.com/)**  
+**[Seattle Sucks](https://www.seattle.sucks)**  
+
 ## Podcasts Produced in Seattle
 *These shows do not have a regional focus but are made in Seattle.*
 
+
+**[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  
 Jason Rigden interviews the people making the cryptocurrency and blockchain revolution happen.
 
 
 ## Podcasts from Seattle Radio Stations
-*These shows are produced by local radio stations*
+*These shows are from local radio stations*
+
+**[KUOW's Week in Review](https://kuow.org/podcasts/week-in-review/)**  
+
 
 ## Inactive Seattle Podcasts
 *These show have not had a new episode in a least 3 months.*
 
+**[The Air-Raid Podcast](http://www.air-raid.net)**  
+**[The Seattle Files with Chris Allen](http://theseattlefiles.com/)**  
+
 ## Podcasting Resources in Seattle
 *Anything in the region that can help podcasters*
-dd
+
 
 ## FAQ
 
