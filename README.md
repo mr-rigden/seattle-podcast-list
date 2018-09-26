@@ -26,6 +26,9 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Extra Innings: A Seattle Times baseball podcast](https://itunes.apple.com/us/podcast/extra-innings-a-seattle-times-baseball-podcast/id1187303548?mt=2)**  
 **[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
 **[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
+**[Sounders Pow Wow](http://sounderspowwow.libsyn.com/)**  
+**[Sounders Weekly](https://itunes.apple.com/us/podcast/sounders-weekly/id1373345740?mt=2)**  
+
 
 ### Podcasts About Washington State
 **[Explore Washington State Podcast](https://explorewashingtonstate.com/podcast/)**  
