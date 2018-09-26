@@ -6,7 +6,6 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 *These are shows that have a regional focus on Seattle.*
 
 
-**[Explore Washington State Podcast](https://explorewashingtonstate.com/podcast/)**  
 **[The Fabulous Peltoncast](http://sonicscentral.com/peltoncast/)**  
 **[HellaBlackHellaSeattle](https://www.hellablackhellaseattle.com/)**  
 **[Here in Seattle](http://www.hereinseattle.com/podcast/)**  
@@ -21,13 +20,18 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Shelf Life](https://www.shelflifestories.com/podcast/)**  
 **[Songwriters in Seattle Podcast](http://songwritersinseattle.com/category/sispodcast/)**  
 **[Supersab in Seattle](https://1supersab.podbean.com/)**  
-**[The Washington State Indivisible Podcast](https://itunes.apple.com/us/podcast/the-washington-state-indivisible-podcast/id1201427449?mt=2)**  
-**[Washington State Wire](https://itunes.apple.com/us/podcast/washington-state-wire/id1233862493?mt=2)**  
+
 
 ### Podcasts About Seattle Sports
 **[Extra Innings: A Seattle Times baseball podcast](https://itunes.apple.com/us/podcast/extra-innings-a-seattle-times-baseball-podcast/id1187303548?mt=2)**  
 **[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
 **[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
+
+### Podcasts About Washington State
+**[Explore Washington State Podcast](https://explorewashingtonstate.com/podcast/)**  
+**[Washington Beer Talk](https://itunes.apple.com/us/podcast/washington-beer-talk/id1365975819?mt=2)**  
+**[The Washington State Indivisible Podcast](https://itunes.apple.com/us/podcast/the-washington-state-indivisible-podcast/id1201427449?mt=2)**  
+**[Washington State Wire](https://itunes.apple.com/us/podcast/washington-state-wire/id1233862493?mt=2)**  
 
 ### Podcasts About The Pacific Northwest
 **[Authors of the Pacific Northwest](https://vikkijcarter.podbean.com)**  
