@@ -20,6 +20,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
+**[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
 **[The Nori Podcast](https://nori.com/podcast)**  
 **[Philosophize This](http://philosophizethis.org/)**  
