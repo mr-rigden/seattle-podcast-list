@@ -6,7 +6,6 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 *These are shows that have a regional focus on Seattle.*
 
 
-
 **[Explore Washington State Podcast](https://explorewashingtonstate.com/podcast/)**  
 **[The Fabulous Peltoncast](http://sonicscentral.com/peltoncast/)**  
 **[HellaBlackHellaSeattle](https://www.hellablackhellaseattle.com/)**  
@@ -30,6 +29,10 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
 **[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
 
+### Podcasts About The Pacific Northwest
+**[Authors of the Pacific Northwest](https://vikkijcarter.podbean.com)**  
+**[Cascadian Beer Podcast](https://cascadian.beer/)**  
+**[True Mysteries of the Pacific Northwest](http://truemysteriesofthepacificnorthwest.libsyn.com/website)**  
 
 
 ## Podcasts Produced in Seattle
@@ -40,6 +43,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[After These Messages](https://itunes.apple.com/us/podcast/after-these-messages-podcast/id1057815491?mt=2)**  
 **[Blabbermouth](https://itunes.apple.com/us/podcast/blabbermouth/id993331808?mt=2)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
+**[Book Lust with Nancy Pearl](https://itunes.apple.com/us/podcast/book-lust-with-nancy-pearl-seattle-channel/id1191895248?mt=2)**  
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
 **[Cinema Squabble](http://www.cinemasquabble.com/)**  
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
