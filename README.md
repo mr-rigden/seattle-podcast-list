@@ -6,6 +6,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 *These are shows that have a regional focus on Seattle.*
 
 **[NW NERD podcast](http://nw-nerd.com/)**  
+**[The Overcast](https://theovercast.libsyn.com/)**  
 **[Rise Seattle](http://www.riseseattlepodcast.com/)**  
 **[Seattle Growth Podcast](http://seattlegrowthpodcast.com/)**  
 **[Seattle Sucks](https://www.seattle.sucks)**  
@@ -33,9 +34,12 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts from Seattle Radio Stations
 *These shows are from local radio stations*
 
+**[KEXP Song of the Day](https://www.kexp.org/podcasts/song-of-the-day/)**
+**[KEXP Mind Over Matters](https://www.kexp.org/podcasts/mind-over-matters-sustainability-segment/)**  
+**[KEXP Music That Matters](https://www.kexp.org/podcasts/music-matters/)**  
 **[KUOW's Week in Review](https://kuow.org/podcasts/week-in-review/)**  
-**[Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
-**[Your Last Meal](http://mynorthwest.com/category/podcast_results/?sid=1148&n=Your%20Last%20Meal%20with%20Rachel%20Belle)**  
+**[KIRO Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
+**[KIRO Your Last Meal](http://mynorthwest.com/category/podcast_results/?sid=1148&n=Your%20Last%20Meal%20with%20Rachel%20Belle)**  
 
 
 ## Inactive Seattle Podcasts
