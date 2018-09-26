@@ -5,10 +5,17 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts About Seattle
 *These are shows that have a regional focus on Seattle.*
 
+Extra Innings: A Seattle Times baseball podcast
+**[Extra Innings: A Seattle Times baseball podcast](h)**  
+
+**[Extra Innings: A Seattle Times baseball podcast](https://itunes.apple.com/us/podcast/extra-innings-a-seattle-times-baseball-podcast/id1187303548?mt=2)**  
+**[The Fabulous Peltoncast](http://sonicscentral.com/peltoncast/)**  
 **[NW NERD podcast](http://nw-nerd.com/)**  
 **[The Overcast](https://theovercast.libsyn.com/)**  
 **[Rise Seattle](http://www.riseseattlepodcast.com/)**  
 **[Seattle Growth Podcast](http://seattlegrowthpodcast.com/)**  
+**[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
+**[Seattle Mariners Podcast](http://seattle.mariners.mlb.com/fan_forum/podcasts/index.jsp?c_id=sea)**  
 **[Seattle Sucks](https://www.seattle.sucks)**  
 **[Seattle Transit Blog](https://seattletransitblog.com)**  
 
@@ -26,6 +33,8 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Philosophize This](http://philosophizethis.org/)**  
 **[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
 **[SealCast](https://twitter.com/hellosealcast)**  
+**[Seattle Insight Meditation Society](http://seattleinsight.org/Recorded-Talks)**  
+**[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.  
 **[Tenta Podcast](https://anchor.fm/tenta)** 
@@ -35,6 +44,8 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts from Seattle Radio Stations
 *These shows are from local radio stations*
 
+
+
 **[KEXP's Song of the Day](https://www.kexp.org/podcasts/song-of-the-day/)**
 **[KEXP's Mind Over Matters](https://www.kexp.org/podcasts/mind-over-matters-sustainability-segment/)**  
 **[KEXP's Music That Matters](https://www.kexp.org/podcasts/music-matters/)**  
@@ -42,6 +53,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KIRO's GeekWire](http://mynorthwest.com/category/podcast_results/?sid=1000&n=GeekWire)**  
 **[KIRO's Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
 **[KIRO's Your Last Meal](http://mynorthwest.com/category/podcast_results/?sid=1148&n=Your%20Last%20Meal%20with%20Rachel%20Belle)**  
+**[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture    
 
 
 ## Inactive Seattle Podcasts
