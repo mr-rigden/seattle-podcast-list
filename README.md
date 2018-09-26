@@ -14,10 +14,20 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts Produced in Seattle
 *These shows do not have a regional focus but are made in Seattle.*
 
+
+
+
+**[The Blockchain Buzz](https://www.theblockchain-buzz.com)** 
+**[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
+**[The Nori Podcast](https://nori.com/podcast)**  
+**[Philosophize This](http://philosophizethis.org/)**  
 **[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
+**[SealCast](https://twitter.com/hellosealcast)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
-**[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.
+**[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.  
+**[Tenta Podcast](https://anchor.fm/tenta)** 
+
 
 
 ## Podcasts from Seattle Radio Stations
