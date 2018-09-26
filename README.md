@@ -20,6 +20,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Shelf Life](https://www.shelflifestories.com/podcast/)**  
 **[Songwriters in Seattle Podcast](http://songwritersinseattle.com/category/sispodcast/)**  
 **[Supersab in Seattle](https://1supersab.podbean.com/)**  
+**[theupperleft](https://itunes.apple.com/us/podcast/theupperleft/id1382979719?mt=2)**  
 **[Upzones](https://cascadiaunderground.org/category/segments/upzones-podcast/)**  
 
 
