@@ -7,8 +7,10 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 
 
 **[Extra Innings: A Seattle Times baseball podcast](https://itunes.apple.com/us/podcast/extra-innings-a-seattle-times-baseball-podcast/id1187303548?mt=2)**  
+**[Explore Washington State Podcast](https://explorewashingtonstate.com/podcast/)**  
 **[The Fabulous Peltoncast](http://sonicscentral.com/peltoncast/)**  
 **[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
+**[HellaBlackHellaSeattle](https://www.hellablackhellaseattle.com/)**  
 **[Here in Seattle](http://www.hereinseattle.com/podcast/)**  
 **[NW NERD podcast](http://nw-nerd.com/)**  
 **[The Overcast](https://theovercast.libsyn.com/)**  
@@ -20,6 +22,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Seattle Sucks](https://www.seattle.sucks)**  
 **[Seattle Transit Blog](https://seattletransitblog.com)**  
 **[Seattle's Worst Podcast](https://seattlesworstpodcast.podbean.com/)**  
+**[Shelf Life](https://www.shelflifestories.com/podcast/)**  
 **[Songwriters in Seattle Podcast](http://songwritersinseattle.com/category/sispodcast/)**  
 **[Supersab in Seattle](https://1supersab.podbean.com/)**  
 **[The Washington State Indivisible Podcast](https://itunes.apple.com/us/podcast/the-washington-state-indivisible-podcast/id1201427449?mt=2)**  
@@ -35,6 +38,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Blabbermouth](https://itunes.apple.com/us/podcast/blabbermouth/id993331808?mt=2)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
+**[Cinema Squabble](http://www.cinemasquabble.com/)**  
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
 **[Less Talk, More Monkey from Archie McPhee](https://itunes.apple.com/us/podcast/less-talk-more-monkey-from-archie-mcphee/id1385175136?mt=2)**  
@@ -45,12 +49,13 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
 **[Savage Lovecast](https://www.savagelovecast.com/)**  
 **[SealCast](https://twitter.com/hellosealcast)**  
+**[The Seattle Public Library - Author Readings and Library Events](https://www.spl.org/books-and-media/library-podcasts)**  
 **[Seattle Insight Meditation Society](http://seattleinsight.org/Recorded-Talks)**  
 **[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.  
 **[Tenta Podcast](https://anchor.fm/tenta)** 
-**[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)** - 
+**[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture        
 
 
@@ -78,6 +83,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Air-Raid Podcast](http://www.air-raid.net)**  
 **[Capitol Ideas: The Washington State House Democratic Caucus Podcast](https://itunes.apple.com/us/podcast/capitol-ideas-washington-state-house-democratic-caucus/id309907242?mt=2)**  
 **[Enjoy Seattle](http://enjoyseattlepodcast.libsyn.com/)**  
+**[Seattleland](https://seattlelandpod.com/)**  
 **[The Seattle Files with Chris Allen](http://theseattlefiles.com/)**  
 **[Seattle Real Estate Radio](https://itunes.apple.com/us/podcast/seattle-real-estate-radio/id1206722830?mt=2)**  
 **[The Other Washington](https://itunes.apple.com/us/podcast/the-other-washington/id1081134368?mt=2)**  
