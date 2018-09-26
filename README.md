@@ -5,11 +5,11 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts About Seattle
 *These are shows that have a regional focus on Seattle.*
 
-Extra Innings: A Seattle Times baseball podcast
-**[Extra Innings: A Seattle Times baseball podcast](h)**  
 
 **[Extra Innings: A Seattle Times baseball podcast](https://itunes.apple.com/us/podcast/extra-innings-a-seattle-times-baseball-podcast/id1187303548?mt=2)**  
 **[The Fabulous Peltoncast](http://sonicscentral.com/peltoncast/)**  
+**[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
+**[Here in Seattle](http://www.hereinseattle.com/podcast/)**  
 **[NW NERD podcast](http://nw-nerd.com/)**  
 **[The Overcast](https://theovercast.libsyn.com/)**  
 **[Rise Seattle](http://www.riseseattlepodcast.com/)**  
@@ -18,13 +18,16 @@ Extra Innings: A Seattle Times baseball podcast
 **[Seattle Mariners Podcast](http://seattle.mariners.mlb.com/fan_forum/podcasts/index.jsp?c_id=sea)**  
 **[Seattle Sucks](https://www.seattle.sucks)**  
 **[Seattle Transit Blog](https://seattletransitblog.com)**  
+**[Songwriters in Seattle Podcast](http://songwritersinseattle.com/category/sispodcast/)**  
+**[Supersab in Seattle](https://1supersab.podbean.com/)**  
+
 
 ## Podcasts Produced in Seattle
 *These shows do not have a regional focus but are made in Seattle.*
 
 
 
-
+**[After These Messages](https://itunes.apple.com/us/podcast/after-these-messages-podcast/id1057815491?mt=2)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
@@ -38,6 +41,7 @@ Extra Innings: A Seattle Times baseball podcast
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.  
 **[Tenta Podcast](https://anchor.fm/tenta)** 
+**[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture        
 
 
 
@@ -53,14 +57,17 @@ Extra Innings: A Seattle Times baseball podcast
 **[KIRO's GeekWire](http://mynorthwest.com/category/podcast_results/?sid=1000&n=GeekWire)**  
 **[KIRO's Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
 **[KIRO's Your Last Meal](http://mynorthwest.com/category/podcast_results/?sid=1148&n=Your%20Last%20Meal%20with%20Rachel%20Belle)**  
-**[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture    
+
 
 
 ## Inactive Seattle Podcasts
 *These show have not had a new episode in a least 3 months.*
 
 **[The Air-Raid Podcast](http://www.air-raid.net)**  
+**[Enjoy Seattle](http://enjoyseattlepodcast.libsyn.com/)**  
 **[The Seattle Files with Chris Allen](http://theseattlefiles.com/)**  
+**[Seattle Real Estate Radio](https://itunes.apple.com/us/podcast/seattle-real-estate-radio/id1206722830?mt=2)**  
+
 
 ## Podcasting Resources in Seattle
 *Anything in the region that can help podcasters*
