@@ -23,6 +23,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Songwriters in Seattle Podcast](http://songwritersinseattle.com/category/sispodcast/)**  
 **[Supersab in Seattle](https://1supersab.podbean.com/)**  
 **[The Washington State Indivisible Podcast](https://itunes.apple.com/us/podcast/the-washington-state-indivisible-podcast/id1201427449?mt=2)**  
+**[Washington State Wire](https://itunes.apple.com/us/podcast/washington-state-wire/id1233862493?mt=2)**  
 
 
 ## Podcasts Produced in Seattle
@@ -58,10 +59,11 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 *These shows are from local radio stations*
 
 
-
 **[KEXP's Song of the Day](https://www.kexp.org/podcasts/song-of-the-day/)**
 **[KEXP's Mind Over Matters](https://www.kexp.org/podcasts/mind-over-matters-sustainability-segment/)**  
 **[KEXP's Music That Matters](https://www.kexp.org/podcasts/music-matters/)**  
+**[KUOW's Prime(d)(https://itunes.apple.com/us/podcast/prime-d/id1296933357?mt=2)**  
+**[KUOW's Speakers Forum](https://www.kuow.org/podcasts/speakers-forum)**  
 **[KUOW's Week in Review](https://kuow.org/podcasts/week-in-review/)**  
 **[KIRO's GeekWire](http://mynorthwest.com/category/podcast_results/?sid=1000&n=GeekWire)**  
 **[KIRO's Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
@@ -74,14 +76,22 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 
 **[206 Geek](https://206geek.wordpress.com/)**  
 **[The Air-Raid Podcast](http://www.air-raid.net)**  
+**[Capitol Ideas: The Washington State House Democratic Caucus Podcast](https://itunes.apple.com/us/podcast/capitol-ideas-washington-state-house-democratic-caucus/id309907242?mt=2)**  
 **[Enjoy Seattle](http://enjoyseattlepodcast.libsyn.com/)**  
 **[The Seattle Files with Chris Allen](http://theseattlefiles.com/)**  
 **[Seattle Real Estate Radio](https://itunes.apple.com/us/podcast/seattle-real-estate-radio/id1206722830?mt=2)**  
+**[The Other Washington](https://itunes.apple.com/us/podcast/the-other-washington/id1081134368?mt=2)**  
 **[You, Me, Us, Now](https://itunes.apple.com/us/podcast/you-me-us-now/id981963609?mt=2)**  
 
 
 ## Podcasting Resources in Seattle
 *Anything in the region that can help podcasters*
+
+**[Cloud Studios](http://www.cloudstudiosseattle.com/)**  
+**[Larj Media](http://www.larjmedia.com/)**  
+**[Northwest Podcast](http://www.northwestpodcast.com/)**  
+**[Seattle Voice Institute](https://seattlevoiceinstitute.com/recording-studios/)**  
+
 
 
 ## FAQ
