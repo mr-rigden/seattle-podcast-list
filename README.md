@@ -20,6 +20,8 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Shelf Life](https://www.shelflifestories.com/podcast/)**  
 **[Songwriters in Seattle Podcast](http://songwritersinseattle.com/category/sispodcast/)**  
 **[Supersab in Seattle](https://1supersab.podbean.com/)**  
+**[Upzones](https://cascadiaunderground.org/category/segments/upzones-podcast/)**  
+
 
 
 ### Podcasts About Seattle Sports
@@ -59,6 +61,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Cinema Squabble](http://www.cinemasquabble.com/)**  
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
+**[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
 **[Less Talk, More Monkey from Archie McPhee](https://itunes.apple.com/us/podcast/less-talk-more-monkey-from-archie-mcphee/id1385175136?mt=2)**  
 **[The Nori Podcast](https://nori.com/podcast)**  
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
@@ -91,6 +94,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KIRO's GeekWire](http://mynorthwest.com/category/podcast_results/?sid=1000&n=GeekWire)**  
 **[KIRO's Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
 **[KIRO's Your Last Meal](http://mynorthwest.com/category/podcast_results/?sid=1148&n=Your%20Last%20Meal%20with%20Rachel%20Belle)**  
+**[KNKX's Weather With Cliff Mass](https://itunes.apple.com/us/podcast/weather-with-cliff-mass/id573245193?mt=2)**  
 
 
 
