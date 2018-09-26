@@ -33,16 +33,20 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Washington State Indivisible Podcast](https://itunes.apple.com/us/podcast/the-washington-state-indivisible-podcast/id1201427449?mt=2)**  
 **[Washington State Wire](https://itunes.apple.com/us/podcast/washington-state-wire/id1233862493?mt=2)**  
 
-### Podcasts About The Pacific Northwest
+### Podcasts About The Pacific Northwest and Cascadia
 **[Authors of the Pacific Northwest](https://vikkijcarter.podbean.com)**  
-**[Cascadian Beer Podcast](https://cascadian.beer/)**  
+**[Cascadia Hockey Podcast](http://cascadiahockeypodcast.libsyn.com/)**  
+**[Cascadia News Now](https://www.cascadianewsnow.com/)**  
+**[Cascadia Podcast](https://itunes.apple.com/us/podcast/cascadia-podcast/id1399327345?mt=2)**  
+**[Cascadian Beer Podcast](https://radiocascadia.libsyn.com/)** 
+**[Geeks of Cascadia](https://itunes.apple.com/us/podcast/geeks-of-cascadia/id1249748521?mt=2)**  
+**[Radio Cascadia](https://cascadian.beer/)**  
+**[True Crime Cascadia](http://truecrimecascadia.libsyn.com/website)**  
 **[True Mysteries of the Pacific Northwest](http://truemysteriesofthepacificnorthwest.libsyn.com/website)**  
 
 
 ## Podcasts Produced in Seattle
 *These shows do not have a regional focus but are made in Seattle.*
-
-
 
 **[After These Messages](https://itunes.apple.com/us/podcast/after-these-messages-podcast/id1057815491?mt=2)**  
 **[Blabbermouth](https://itunes.apple.com/us/podcast/blabbermouth/id993331808?mt=2)**  
