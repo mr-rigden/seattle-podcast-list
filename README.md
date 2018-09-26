@@ -54,6 +54,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 *These shows do not have a regional focus but are made in Seattle.*
 
 **[After These Messages](https://itunes.apple.com/us/podcast/after-these-messages-podcast/id1057815491?mt=2)**  
+**[ArchitectureTalk](http://architecturetalk.org/)**  
 **[Blabbermouth](https://itunes.apple.com/us/podcast/blabbermouth/id993331808?mt=2)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
 **[Book Lust with Nancy Pearl](https://itunes.apple.com/us/podcast/book-lust-with-nancy-pearl-seattle-channel/id1191895248?mt=2)**  
@@ -61,6 +62,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Cinema Squabble](http://www.cinemasquabble.com/)**  
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
+**[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)** 
 **[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
 **[Less Talk, More Monkey from Archie McPhee](https://itunes.apple.com/us/podcast/less-talk-more-monkey-from-archie-mcphee/id1385175136?mt=2)**  
 **[The Nori Podcast](https://nori.com/podcast)**  
