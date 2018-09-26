@@ -70,7 +70,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KEXP's Song of the Day](https://www.kexp.org/podcasts/song-of-the-day/)**
 **[KEXP's Mind Over Matters](https://www.kexp.org/podcasts/mind-over-matters-sustainability-segment/)**  
 **[KEXP's Music That Matters](https://www.kexp.org/podcasts/music-matters/)**  
-**[KUOW's Prime(d)(https://itunes.apple.com/us/podcast/prime-d/id1296933357?mt=2)**  
+**[KUOW's Prime(d)](https://itunes.apple.com/us/podcast/prime-d/id1296933357?mt=2)**  
 **[KUOW's Speakers Forum](https://www.kuow.org/podcasts/speakers-forum)**  
 **[KUOW's Week in Review](https://kuow.org/podcasts/week-in-review/)**  
 **[KIRO's GeekWire](http://mynorthwest.com/category/podcast_results/?sid=1000&n=GeekWire)**  
