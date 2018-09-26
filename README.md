@@ -6,19 +6,16 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 *These are shows that have a regional focus on Seattle.*
 
 
-**[Extra Innings: A Seattle Times baseball podcast](https://itunes.apple.com/us/podcast/extra-innings-a-seattle-times-baseball-podcast/id1187303548?mt=2)**  
+
 **[Explore Washington State Podcast](https://explorewashingtonstate.com/podcast/)**  
 **[The Fabulous Peltoncast](http://sonicscentral.com/peltoncast/)**  
-**[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
 **[HellaBlackHellaSeattle](https://www.hellablackhellaseattle.com/)**  
 **[Here in Seattle](http://www.hereinseattle.com/podcast/)**  
 **[NW NERD podcast](http://nw-nerd.com/)**  
 **[The Overcast](https://theovercast.libsyn.com/)**  
 **[Rise Seattle](http://www.riseseattlepodcast.com/)**  
 **[Seattle Growth Podcast](http://seattlegrowthpodcast.com/)**  
-**[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
 **[Seattle After Party](http://seattleafterparty.com/)**  
-**[Seattle Mariners Podcast](http://seattle.mariners.mlb.com/fan_forum/podcasts/index.jsp?c_id=sea)**  
 **[Seattle Sucks](https://www.seattle.sucks)**  
 **[Seattle Transit Blog](https://seattletransitblog.com)**  
 **[Seattle's Worst Podcast](https://seattlesworstpodcast.podbean.com/)**  
@@ -27,6 +24,12 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Supersab in Seattle](https://1supersab.podbean.com/)**  
 **[The Washington State Indivisible Podcast](https://itunes.apple.com/us/podcast/the-washington-state-indivisible-podcast/id1201427449?mt=2)**  
 **[Washington State Wire](https://itunes.apple.com/us/podcast/washington-state-wire/id1233862493?mt=2)**  
+
+### Podcasts About Seattle Sports
+**[Extra Innings: A Seattle Times baseball podcast](https://itunes.apple.com/us/podcast/extra-innings-a-seattle-times-baseball-podcast/id1187303548?mt=2)**  
+**[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
+**[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
+
 
 
 ## Podcasts Produced in Seattle
