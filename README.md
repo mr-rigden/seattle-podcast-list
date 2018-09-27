@@ -5,12 +5,13 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts About Seattle
 *These are shows that have a regional focus on Seattle.*
 
-
+**[The Age of Independents](https://indie.biz/blog)**  
 **[The Fabulous Peltoncast](http://sonicscentral.com/peltoncast/)**  
 **[HellaBlackHellaSeattle](https://www.hellablackhellaseattle.com/)**  
 **[Here in Seattle](http://www.hereinseattle.com/podcast/)**  
 **[NW NERD podcast](http://nw-nerd.com/)**  
 **[The Overcast](https://theovercast.libsyn.com/)**  
+**[Overheard from Overlake](https://itunes.apple.com/us/podcast/overheard-from-overlake/id1391738624?mt=2)**  
 **[Rise Seattle](http://www.riseseattlepodcast.com/)**  
 **[Seattle Growth Podcast](http://seattlegrowthpodcast.com/)**  
 **[Seattle After Party](http://seattleafterparty.com/)**  
@@ -55,6 +56,8 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 *These shows do not have a regional focus but are made in Seattle.*
 
 **[After These Messages](https://itunes.apple.com/us/podcast/after-these-messages-podcast/id1057815491?mt=2)**  
+**[almostchill](https://itunes.apple.com/us/podcast/almostchill/id1434383933?mt=2)**  
+**[ALOTOFTHINGS](https://itunes.apple.com/us/podcast/alotofthings/id1288224301?mt=2)**  
 **[ArchitectureTalk](http://architecturetalk.org/)**  
 **[Blabbermouth](https://itunes.apple.com/us/podcast/blabbermouth/id993331808?mt=2)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
@@ -62,11 +65,14 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Book Lust with Nancy Pearl](https://itunes.apple.com/us/podcast/book-lust-with-nancy-pearl-seattle-channel/id1191895248?mt=2)**  
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
 **[Cinema Squabble](http://www.cinemasquabble.com/)**  
+**[Cold Cans](https://coldcanspodcast.com/)**  
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
 **[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)** 
+**[Hoopsmack](https://www.hoopsmack.com/)** 
 **[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
 **[Less Talk, More Monkey from Archie McPhee](https://itunes.apple.com/us/podcast/less-talk-more-monkey-from-archie-mcphee/id1385175136?mt=2)**  
+**[Mouthy Messy Mandatory](https://itunes.apple.com/us/podcast/mouthy-messy-mandatory/id1313163555?mt=2)**  
 **[The Nori Podcast](https://nori.com/podcast)**  
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
 **[Philosophize This](http://philosophizethis.org/)**  
@@ -77,11 +83,13 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Seattle Public Library - Author Readings and Library Events](https://www.spl.org/books-and-media/library-podcasts)**  
 **[Seattle Insight Meditation Society](http://seattleinsight.org/Recorded-Talks)**  
 **[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
+**[So Divine!](http://stephaniegailing.com/so-divine-the-podcast/)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.  
 **[Tenta Podcast](https://anchor.fm/tenta)** 
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture        
+**[We The People with Nina Turner](https://itunes.apple.com/us/podcast/we-the-people-with-nina-turner/id1394105352?mt=2)**  
 
 
 
