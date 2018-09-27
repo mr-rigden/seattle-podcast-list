@@ -58,6 +58,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[ArchitectureTalk](http://architecturetalk.org/)**  
 **[Blabbermouth](https://itunes.apple.com/us/podcast/blabbermouth/id993331808?mt=2)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
+**[Blockchain Conversations with Sean Johnston](https://itunes.apple.com/us/podcast/blockchain-conversations-with-sean-johnston/id1437328236?mt=2)**  
 **[Book Lust with Nancy Pearl](https://itunes.apple.com/us/podcast/book-lust-with-nancy-pearl-seattle-channel/id1191895248?mt=2)**  
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
 **[Cinema Squabble](http://www.cinemasquabble.com/)**  
