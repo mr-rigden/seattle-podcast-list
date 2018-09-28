@@ -107,7 +107,11 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KEXP's Song of the Day](https://www.kexp.org/podcasts/song-of-the-day/)**
 **[KEXP's Mind Over Matters](https://www.kexp.org/podcasts/mind-over-matters-sustainability-segment/)**  
 **[KEXP's Music That Matters](https://www.kexp.org/podcasts/music-matters/)**  
+**[KUOW's Battle Tactics For Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics)**  
+**[KUOW's How's Your Day?](https://www.kuow.org/podcasts/how-s-your-day)**  
 **[KUOW's Prime(d)](https://itunes.apple.com/us/podcast/prime-d/id1296933357?mt=2)**  
+**[KUOW's RadioActive](https://www.kuow.org/podcasts/radioactive)**  
+**[KUOW's The Record](https://www.kuow.org/podcasts/the-record)**  
 **[KUOW's Speakers Forum](https://www.kuow.org/podcasts/speakers-forum)**  
 **[KUOW's Week in Review](https://kuow.org/podcasts/week-in-review/)**  
 **[KIRO's GeekWire](http://mynorthwest.com/category/podcast_results/?sid=1000&n=GeekWire)**  
@@ -131,6 +135,9 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Air-Raid Podcast](http://www.air-raid.net)**  
 **[Capitol Ideas: The Washington State House Democratic Caucus Podcast](https://itunes.apple.com/us/podcast/capitol-ideas-washington-state-house-democratic-caucus/id309907242?mt=2)**  
 **[Enjoy Seattle](http://enjoyseattlepodcast.libsyn.com/)**  
+**[KUOW's How to Be a Girl](https://www.kuow.org/podcasts/how-to-be-a-girl)**  
+**[KUOW's Second Wave](https://www.kuow.org/podcasts/second-wave)**  
+**[KUOW's terrestrial](https://www.kuow.org/podcasts/terrestrial)**  
 **[Seattleland](https://seattlelandpod.com/)**  
 **[The Seattle Files with Chris Allen](http://theseattlefiles.com/)**  
 **[Seattle Real Estate Radio](https://itunes.apple.com/us/podcast/seattle-real-estate-radio/id1206722830?mt=2)**  
