@@ -54,7 +54,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 
 
 ## Podcasts Produced in Seattle
-*These shows do not have a regional focus but are made in Seattle.*
+*These shows do not have a regional focus but are made in Seattle. This list has grown pretty large. I'll break it up. Any suggestions for categories?*
 
 **[About to Review](http://www.abouttoreview.com/)**  
 **[After These Messages](https://itunes.apple.com/us/podcast/after-these-messages-podcast/id1057815491?mt=2)**  
