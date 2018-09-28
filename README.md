@@ -56,6 +56,8 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts Produced in Seattle
 *These shows do not have a regional focus but are made in Seattle. This list has grown pretty large. I'll break it up. Any suggestions for categories?*
 
+
+**[206Geek](https://itunes.apple.com/us/podcast/206geek-podcast/id656434434?mt=2)**  
 **[About to Review](http://www.abouttoreview.com/)**  
 **[After These Messages](https://itunes.apple.com/us/podcast/after-these-messages-podcast/id1057815491?mt=2)**  
 **[almostchill](https://itunes.apple.com/us/podcast/almostchill/id1434383933?mt=2)**  
@@ -138,7 +140,6 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Inactive Seattle Podcasts
 *These show have not had a new episode in a least 3 months.*
 
-**[206 Geek](https://206geek.wordpress.com/)**  
 **[The Air-Raid Podcast](http://www.air-raid.net)**  
 **[Capitol Ideas: The Washington State House Democratic Caucus Podcast](https://itunes.apple.com/us/podcast/capitol-ideas-washington-state-house-democratic-caucus/id309907242?mt=2)**  
 **[Engineers & Coffee ](http://engineers.coffee)**  
