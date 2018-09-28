@@ -9,6 +9,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Fabulous Peltoncast](http://sonicscentral.com/peltoncast/)**  
 **[HellaBlackHellaSeattle](https://www.hellablackhellaseattle.com/)**  
 **[Here in Seattle](http://www.hereinseattle.com/podcast/)**  
+**[Nerd Farmer Podcast](https://www.natebowling.com/podcast/)**  
 **[NW NERD podcast](http://nw-nerd.com/)**  
 **[The Overcast](https://theovercast.libsyn.com/)**  
 **[Overheard from Overlake](https://itunes.apple.com/us/podcast/overheard-from-overlake/id1391738624?mt=2)**  
@@ -55,6 +56,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts Produced in Seattle
 *These shows do not have a regional focus but are made in Seattle.*
 
+**[About to Review](http://www.abouttoreview.com/)**  
 **[After These Messages](https://itunes.apple.com/us/podcast/after-these-messages-podcast/id1057815491?mt=2)**  
 **[almostchill](https://itunes.apple.com/us/podcast/almostchill/id1434383933?mt=2)**  
 **[ALOTOFTHINGS](https://itunes.apple.com/us/podcast/alotofthings/id1288224301?mt=2)**  
@@ -66,9 +68,12 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
 **[Cinema Squabble](http://www.cinemasquabble.com/)**  
 **[Cold Cans](https://coldcanspodcast.com/)**  
+**[Cosing A Problem](http://handcannononline.com/blog/category/podcasting/cosing-a-problem/)**  
+**[Dead Beat Film Society](http://deadbeatfilmsociety.libsyn.com/)**   
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
 **[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)** 
+**[Fake Geek Girls](http://fakegeekgirlscast.com/)** 
 **[Hoopsmack](https://www.hoopsmack.com/)** 
 **[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
 **[Less Talk, More Monkey from Archie McPhee](https://itunes.apple.com/us/podcast/less-talk-more-monkey-from-archie-mcphee/id1385175136?mt=2)**  
@@ -89,6 +94,8 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Tenta Podcast](https://anchor.fm/tenta)** 
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture        
+**[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)** 
+
 **[We The People with Nina Turner](https://itunes.apple.com/us/podcast/we-the-people-with-nina-turner/id1394105352?mt=2)**  
 
 
@@ -106,6 +113,13 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KIRO's GeekWire](http://mynorthwest.com/category/podcast_results/?sid=1000&n=GeekWire)**  
 **[KIRO's Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
 **[KIRO's Your Last Meal](http://mynorthwest.com/category/podcast_results/?sid=1148&n=Your%20Last%20Meal%20with%20Rachel%20Belle)**  
+**[KNKX's Food For Thought](https://itunes.apple.com/us/podcast/food-for-thought/id573241690?mt=2)**  
+**[KNKX's Going Places](https://itunes.apple.com/us/podcast/going-places/id1172566428?mt=2)**  
+**[KNKX's Jazz Northwest](https://itunes.apple.com/us/podcast/jazz-northwest/id573243253?mt=2)**  
+**[KNKX's Live Studio Sessions](https://itunes.apple.com/us/podcast/knkx-studio-sessions/id1137697646?mt=2)**  
+**[KNKX's School Of Jazz](https://itunes.apple.com/us/podcast/school-of-jazz/id1204483138?mt=2)**  
+**[KNKX's Sound Effect Podcast](http://www.knkx.org/term/sound-effect-podcast)**  
+**[KNKX's Sports With Art Thiel](https://itunes.apple.com/us/podcast/sports-with-art-thiel/id1172015719)**  
 **[KNKX's Weather With Cliff Mass](https://itunes.apple.com/us/podcast/weather-with-cliff-mass/id573245193?mt=2)**  
 
 
