@@ -62,6 +62,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[ALOTOFTHINGS](https://itunes.apple.com/us/podcast/alotofthings/id1288224301?mt=2)**  
 **[ArchitectureTalk](http://architecturetalk.org/)**  
 **[Blabbermouth](https://itunes.apple.com/us/podcast/blabbermouth/id993331808?mt=2)**  
+**[Black & A Half](http://blackandahalf.com/)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
 **[Blockchain Conversations with Sean Johnston](https://itunes.apple.com/us/podcast/blockchain-conversations-with-sean-johnston/id1437328236?mt=2)**  
 **[Book Lust with Nancy Pearl](https://itunes.apple.com/us/podcast/book-lust-with-nancy-pearl-seattle-channel/id1191895248?mt=2)**  
@@ -96,7 +97,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture        
 **[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)** 
-**[Two Paychecks Podcast](https://itunes.apple.com/us/podcast/two-paychecks-podcast/id1349023848?mt=2)** 
+**[Two Paychecks Podcast](https://itunes.apple.com/us/podcast/two-paychecks-podcast/id1349023848?mt=2)**  
 **[We The People with Nina Turner](https://itunes.apple.com/us/podcast/we-the-people-with-nina-turner/id1394105352?mt=2)**  
 
 
