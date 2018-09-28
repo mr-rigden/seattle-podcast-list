@@ -81,6 +81,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Nori Podcast](https://nori.com/podcast)**  
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
 **[Philosophize This](http://philosophizethis.org/)**  
+**[The Podworms Spacecast](https://pwspacecast.podbean.com/)**  
 **[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
 **[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
 **[Savage Lovecast](https://www.savagelovecast.com/)**  
@@ -95,7 +96,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture        
 **[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)** 
-
+**[Two Paychecks Podcast](https://itunes.apple.com/us/podcast/two-paychecks-podcast/id1349023848?mt=2)** 
 **[We The People with Nina Turner](https://itunes.apple.com/us/podcast/we-the-people-with-nina-turner/id1394105352?mt=2)**  
 
 
@@ -134,6 +135,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[206 Geek](https://206geek.wordpress.com/)**  
 **[The Air-Raid Podcast](http://www.air-raid.net)**  
 **[Capitol Ideas: The Washington State House Democratic Caucus Podcast](https://itunes.apple.com/us/podcast/capitol-ideas-washington-state-house-democratic-caucus/id309907242?mt=2)**  
+**[Engineers & Coffee ](http://engineers.coffee)**  
 **[Enjoy Seattle](http://enjoyseattlepodcast.libsyn.com/)**  
 **[KUOW's How to Be a Girl](https://www.kuow.org/podcasts/how-to-be-a-girl)**  
 **[KUOW's Second Wave](https://www.kuow.org/podcasts/second-wave)**  
