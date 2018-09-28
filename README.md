@@ -33,7 +33,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
 **[Sounders Pow Wow](http://sounderspowwow.libsyn.com/)**  
 **[Sounders Weekly](https://itunes.apple.com/us/podcast/sounders-weekly/id1373345740?mt=2)**  
-
+**[Winging It with Zakuani](https://www.soundersfc.com/wingingitpodcast)**  
 
 ### Podcasts About Washington State
 **[Explore Washington State Podcast](https://explorewashingtonstate.com/podcast/)**  
