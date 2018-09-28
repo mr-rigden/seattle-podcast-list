@@ -90,6 +90,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Seattle Public Library - Author Readings and Library Events](https://www.spl.org/books-and-media/library-podcasts)**  
 **[Seattle Insight Meditation Society](http://seattleinsight.org/Recorded-Talks)**  
 **[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
+**[Spoiler Country Podcast](http://scpod.net/)**  
 **[So Divine!](http://stephaniegailing.com/so-divine-the-podcast/)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.  
