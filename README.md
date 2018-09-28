@@ -66,6 +66,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
 **[Blockchain Conversations with Sean Johnston](https://itunes.apple.com/us/podcast/blockchain-conversations-with-sean-johnston/id1437328236?mt=2)**  
 **[Book Lust with Nancy Pearl](https://itunes.apple.com/us/podcast/book-lust-with-nancy-pearl-seattle-channel/id1191895248?mt=2)**  
+**[Byte Me](https://itunes.apple.com/us/podcast/byte-me-podcast/id1186894180)**  
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
 **[Cinema Squabble](http://www.cinemasquabble.com/)**  
 **[Cold Cans](https://coldcanspodcast.com/)**  
@@ -76,6 +77,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)** 
 **[Fake Geek Girls](http://fakegeekgirlscast.com/)** 
 **[Hoopsmack](https://www.hoopsmack.com/)** 
+**[The Jeremy Mills Podcast](https://itunes.apple.com/us/podcast/the-jeremy-mills-podcast/id1244998389?mt=2)** 
 **[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
 **[Less Talk, More Monkey from Archie McPhee](https://itunes.apple.com/us/podcast/less-talk-more-monkey-from-archie-mcphee/id1385175136?mt=2)**  
 **[Mouthy Messy Mandatory](https://itunes.apple.com/us/podcast/mouthy-messy-mandatory/id1313163555?mt=2)**  
@@ -83,6 +85,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
 **[Philosophize This](http://philosophizethis.org/)**  
 **[The Podworms Spacecast](https://pwspacecast.podbean.com/)**  
+**[Poly Weekly](http://polyweekly.libsyn.com/)**  
 **[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
 **[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
 **[Savage Lovecast](https://www.savagelovecast.com/)**  
