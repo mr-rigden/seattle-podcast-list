@@ -79,12 +79,12 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Dead Beat Film Society](http://deadbeatfilmsociety.libsyn.com/)**   
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
-**[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)** 
-**[Fake Geek Girls](http://fakegeekgirlscast.com/)** 
-**[The Galerie Conversation](http://thegalerieconversation.libsyn.com/)** 
-**[Hidden Jukebox](https://www.hiddenjukebox.com)** 
-**[Hoopsmack](https://www.hoopsmack.com/)** 
-**[The Jeremy Mills Podcast](https://itunes.apple.com/us/podcast/the-jeremy-mills-podcast/id1244998389?mt=2)** 
+**[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)**  
+**[Fake Geek Girls](http://fakegeekgirlscast.com/)**  
+**[The Galerie Conversation](http://thegalerieconversation.libsyn.com/)**  
+**[Hidden Jukebox](https://www.hiddenjukebox.com)**  
+**[Hoopsmack](https://www.hoopsmack.com/)**  
+**[The Jeremy Mills Podcast](https://itunes.apple.com/us/podcast/the-jeremy-mills-podcast/id1244998389?mt=2)**  
 **[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
 **[Less Talk, More Monkey from Archie McPhee](https://itunes.apple.com/us/podcast/less-talk-more-monkey-from-archie-mcphee/id1385175136?mt=2)**  
 **[Mouthy Messy Mandatory](https://itunes.apple.com/us/podcast/mouthy-messy-mandatory/id1313163555?mt=2)**  
