@@ -136,7 +136,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KNKX's Food For Thought](https://itunes.apple.com/us/podcast/food-for-thought/id573241690?mt=2)**  
 **[KNKX's Going Places](https://itunes.apple.com/us/podcast/going-places/id1172566428?mt=2)**  
 **[KNKX's Jazz Northwest](https://itunes.apple.com/us/podcast/jazz-northwest/id573243253?mt=2)**  
-**[KNKX's Live Studio Sessions](https://itunes.apple.com/us/podcast/knkx-studio-sessions/id113769764ttps://itunes.apple.com/us/podcast/sounders-weekly/id1373345740?mt=2)6?mt=2)**  
+**[KNKX's Live Studio Sessions](https://itunes.apple.com/us/podcast/knkx-studio-sessions/id113769764ttps://itunes.apple.com/us/podcast/sounders-weekly/id1373345740?mt=2)**  
 **[KNKX's School Of Jazz](https://itunes.apple.com/us/podcast/school-of-jazz/id1204483138?mt=2)**  
 **[KNKX's Sound Effect Podcast](http://www.knkx.org/term/sound-effect-podcast)**  
 **[KNKX's Sports With Art Thiel](https://itunes.apple.com/us/podcast/sports-with-art-thiel/id1172015719)**  
