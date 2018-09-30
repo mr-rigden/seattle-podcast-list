@@ -31,8 +31,10 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Extra Innings: A Seattle Times baseball podcast](https://itunes.apple.com/us/podcast/extra-innings-a-seattle-times-baseball-podcast/id1187303548?mt=2)**  
 **[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
 **[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
+**[Sound of Hockey](http://soundofhockey.libsyn.com/)**  
 **[Sounders Pow Wow](http://sounderspowwow.libsyn.com/)**  
 **[Sounders Weekly](https://itunes.apple.com/us/podcast/sounders-weekly/id1373345740?mt=2)**  
+**[TBirds Talk](https://itunes.apple.com/us/podcast/tbirds-talk/id1146694832?mt=2)**  
 **[Winging It with Zakuani](https://www.soundersfc.com/wingingitpodcast)**  
 
 ### Podcasts About Washington State
@@ -129,7 +131,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KNKX's Food For Thought](https://itunes.apple.com/us/podcast/food-for-thought/id573241690?mt=2)**  
 **[KNKX's Going Places](https://itunes.apple.com/us/podcast/going-places/id1172566428?mt=2)**  
 **[KNKX's Jazz Northwest](https://itunes.apple.com/us/podcast/jazz-northwest/id573243253?mt=2)**  
-**[KNKX's Live Studio Sessions](https://itunes.apple.com/us/podcast/knkx-studio-sessions/id1137697646?mt=2)**  
+**[KNKX's Live Studio Sessions](https://itunes.apple.com/us/podcast/knkx-studio-sessions/id113769764ttps://itunes.apple.com/us/podcast/sounders-weekly/id1373345740?mt=2)6?mt=2)**  
 **[KNKX's School Of Jazz](https://itunes.apple.com/us/podcast/school-of-jazz/id1204483138?mt=2)**  
 **[KNKX's Sound Effect Podcast](http://www.knkx.org/term/sound-effect-podcast)**  
 **[KNKX's Sports With Art Thiel](https://itunes.apple.com/us/podcast/sports-with-art-thiel/id1172015719)**  
