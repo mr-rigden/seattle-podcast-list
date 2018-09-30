@@ -22,6 +22,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Shelf Life](https://www.shelflifestories.com/podcast/)**  
 **[Songwriters in Seattle Podcast](http://songwritersinseattle.com/category/sispodcast/)**  
 **[Supersab in Seattle](https://1supersab.podbean.com/)**  
+**[The Grit City Podcast](https://www.gritcitypodcast.com)**  
 **[theupperleft](https://itunes.apple.com/us/podcast/theupperleft/id1382979719?mt=2)**  
 **[Upzones](https://cascadiaunderground.org/category/segments/upzones-podcast/)**  
 
@@ -80,6 +81,8 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
 **[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)** 
 **[Fake Geek Girls](http://fakegeekgirlscast.com/)** 
+**[The Galerie Conversation](http://thegalerieconversation.libsyn.com/)** 
+**[Hidden Jukebox](https://www.hiddenjukebox.com)** 
 **[Hoopsmack](https://www.hoopsmack.com/)** 
 **[The Jeremy Mills Podcast](https://itunes.apple.com/us/podcast/the-jeremy-mills-podcast/id1244998389?mt=2)** 
 **[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
@@ -88,9 +91,11 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Nori Podcast](https://nori.com/podcast)**  
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
 **[Philosophize This](http://philosophizethis.org/)**  
+**[Podcasta la Vista, Baby!](http://podcastalavistababy.com/)**  
 **[The Podworms Spacecast](https://pwspacecast.podbean.com/)**  
 **[Poly Weekly](http://polyweekly.libsyn.com/)**  
 **[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
+**[Radio vs. the Martians!](http://radiovsthemartians.com/)**  
 **[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
 **[Savage Lovecast](https://www.savagelovecast.com/)**  
 **[SealCast](https://twitter.com/hellosealcast)**  
@@ -161,7 +166,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 
 **[Cloud Studios](http://www.cloudstudiosseattle.com/)**  
 **[Larj Media](http://www.larjmedia.com/)**  
-**[Northwest Podcast](http://www.northwestpodcast.com/)**  
+**[Northwest Podcast](http://www.northwestpodcast.com/)**  Jukebox
 **[Seattle Voice Institute](https://seattlevoiceinstitute.com/recording-studios/)**  
 
 
