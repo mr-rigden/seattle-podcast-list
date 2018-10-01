@@ -35,6 +35,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Sound of Hockey](http://soundofhockey.libsyn.com/)**  
 **[Sounders Pow Wow](http://sounderspowwow.libsyn.com/)**  
 **[Sounders Weekly](https://itunes.apple.com/us/podcast/sounders-weekly/id1373345740?mt=2)**  
+**[Tasteful Profanity: A Beast Pode Production](https://soundcloud.com/beastpode)**  
 **[TBirds Talk](https://itunes.apple.com/us/podcast/tbirds-talk/id1146694832?mt=2)**  
 **[Winging It with Zakuani](https://www.soundersfc.com/wingingitpodcast)**  
 
