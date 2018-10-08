@@ -20,6 +20,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Seattle Transit Blog](https://seattletransitblog.com)**  
 **[Seattle's Worst Podcast](https://seattlesworstpodcast.podbean.com/)**  
 **[Shelf Life](https://www.shelflifestories.com/podcast/)**  
+**[Solving Sounds](http://www.solvingsounds.libsyn.com/)**  
 **[Songwriters in Seattle Podcast](http://songwritersinseattle.com/category/sispodcast/)**  
 **[Supersab in Seattle](https://1supersab.podbean.com/)**  
 **[The Grit City Podcast](https://www.gritcitypodcast.com)**  
