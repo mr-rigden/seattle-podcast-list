@@ -14,6 +14,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Overcast](https://theovercast.libsyn.com/)**  
 **[Overheard from Overlake](https://itunes.apple.com/us/podcast/overheard-from-overlake/id1391738624?mt=2)**  
 **[Rise Seattle](http://www.riseseattlepodcast.com/)**  
+**[Sea-Town Podcast](https://sea-townpodcast.com/)**  
 **[Seattle Growth Podcast](http://seattlegrowthpodcast.com/)**  
 **[Seattle After Party](http://seattleafterparty.com/)**  
 **[Seattle Sucks](https://www.seattle.sucks)**  
