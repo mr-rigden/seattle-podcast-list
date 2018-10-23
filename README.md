@@ -172,7 +172,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 
 **[Cloud Studios](http://www.cloudstudiosseattle.com/)**  
 **[Larj Media](http://www.larjmedia.com/)**  
-**[Northwest Podcast](http://www.northwestpodcast.com/)**  Jukebox
+**[Northwest Podcast](http://www.northwestpodcast.com/)**  
 **[Seattle Voice Institute](https://seattlevoiceinstitute.com/recording-studios/)**  
 
 
