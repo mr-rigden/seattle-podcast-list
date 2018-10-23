@@ -90,6 +90,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Jeremy Mills Podcast](https://itunes.apple.com/us/podcast/the-jeremy-mills-podcast/id1244998389?mt=2)**  
 **[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
 **[Less Talk, More Monkey from Archie McPhee](https://itunes.apple.com/us/podcast/less-talk-more-monkey-from-archie-mcphee/id1385175136?mt=2)**  
+**[Misery Point Radio](http://miserypointradio.podbean.com/)**  
 **[Mouthy Messy Mandatory](https://itunes.apple.com/us/podcast/mouthy-messy-mandatory/id1313163555?mt=2)**  
 **[The Nori Podcast](https://nori.com/podcast)**  
 **[On The Edge with Mike Peacock](http://ontheedgepodcast.podbean.com/)**  
