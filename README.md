@@ -81,6 +81,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Cosing A Problem](http://handcannononline.com/blog/category/podcasting/cosing-a-problem/)**  
 **[Dead Beat Film Society](http://deadbeatfilmsociety.libsyn.com/)**   
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
+**[The Desk Set]()**   
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
 **[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)**  
 **[Fake Geek Girls](http://fakegeekgirlscast.com/)**  
