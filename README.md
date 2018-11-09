@@ -177,6 +177,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Larj Media](http://www.larjmedia.com/)**  
 **[Northwest Podcast](http://www.northwestpodcast.com/)**  
 **[Seattle Voice Institute](https://seattlevoiceinstitute.com/recording-studios/)**  
+**[Washington State Podcasting Group](https://www.facebook.com/groups/WAStatePod)**  
 
 
 
