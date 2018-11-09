@@ -109,6 +109,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Seattle Public Library - Author Readings and Library Events](https://www.spl.org/books-and-media/library-podcasts)**  
 **[Seattle Insight Meditation Society](http://seattleinsight.org/Recorded-Talks)**  
 **[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
+**[The Silent Superheroes Podcast](https://www.blubrry.com/silentsuperheroes/)**  
 **[Spoiler Country Podcast](http://scpod.net/)**  
 **[The Spoilers : Wayne & Daryl](http://www.thespoilerswd.com/)**  
 **[So Divine!](http://stephaniegailing.com/so-divine-the-podcast/)**  
