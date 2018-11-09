@@ -122,6 +122,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Two Paychecks Podcast](https://itunes.apple.com/us/podcast/two-paychecks-podcast/id1349023848?mt=2)**  
 **[We The People with Nina Turner](https://itunes.apple.com/us/podcast/we-the-people-with-nina-turner/id1394105352?mt=2)**  
 **[A Word on Plays](https://itunes.apple.com/us/podcast/a-word-on-plays/id1300418497?mt=2&fbclid=IwAR1xtCXVVH3OWa4PoC5XUWEog0XQbd5u1ufQLItMohWAd5CVKGHdkfbsYlM)**  
+**[You Can Sit With Us](https://anchor.fm/you-can-sit-with-us)**  
 
 
 
