@@ -29,16 +29,21 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Upzones](https://cascadiaunderground.org/category/segments/upzones-podcast/)**  
 
 
-
 ### Podcasts About Seattle Sports
+**[Sound of Hockey](http://soundofhockey.libsyn.com/)**  
+**[TBirds Talk](https://itunes.apple.com/us/podcast/tbirds-talk/id1146694832?mt=2)**  
+
+#### Podcasts About The Seattle Mariners
 **[Extra Innings: A Seattle Times baseball podcast](https://itunes.apple.com/us/podcast/extra-innings-a-seattle-times-baseball-podcast/id1187303548?mt=2)**  
+
+#### Podcasts About The Seattle Seahawks
 **[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
 **[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
-**[Sound of Hockey](http://soundofhockey.libsyn.com/)**  
+**[Tasteful Profanity: A Beast Pode Production](https://soundcloud.com/beastpode)**  
+
+#### Podcasts About The Seattle Sounders
 **[Sounders Pow Wow](http://sounderspowwow.libsyn.com/)**  
 **[Sounders Weekly](https://itunes.apple.com/us/podcast/sounders-weekly/id1373345740?mt=2)**  
-**[Tasteful Profanity: A Beast Pode Production](https://soundcloud.com/beastpode)**  
-**[TBirds Talk](https://itunes.apple.com/us/podcast/tbirds-talk/id1146694832?mt=2)**  
 **[Winging It with Zakuani](https://www.soundersfc.com/wingingitpodcast)**  
 
 ### Podcasts About Washington State
@@ -130,10 +135,12 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts from Seattle Radio Stations
 *These shows are from local radio stations*
 
-
+#### Podcasts From KEXP
 **[KEXP's Song of the Day](https://www.kexp.org/podcasts/song-of-the-day/)**
 **[KEXP's Mind Over Matters](https://www.kexp.org/podcasts/mind-over-matters-sustainability-segment/)**  
 **[KEXP's Music That Matters](https://www.kexp.org/podcasts/music-matters/)**  
+
+#### Podcasts From KUOW
 **[KUOW's Battle Tactics For Your Sexist Workplace](https://www.kuow.org/podcasts/battle-tactics)**  
 **[KUOW's How's Your Day?](https://www.kuow.org/podcasts/how-s-your-day)**  
 **[KUOW's Prime(d)](https://itunes.apple.com/us/podcast/prime-d/id1296933357?mt=2)**  
@@ -141,9 +148,13 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KUOW's The Record](https://www.kuow.org/podcasts/the-record)**  
 **[KUOW's Speakers Forum](https://www.kuow.org/podcasts/speakers-forum)**  
 **[KUOW's Week in Review](https://kuow.org/podcasts/week-in-review/)**  
+
+#### Podcasts From KIRO
 **[KIRO's GeekWire](http://mynorthwest.com/category/podcast_results/?sid=1000&n=GeekWire)**  
 **[KIRO's Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
 **[KIRO's Your Last Meal](http://mynorthwest.com/category/podcast_results/?sid=1148&n=Your%20Last%20Meal%20with%20Rachel%20Belle)**  
+
+#### Podcasts From KNKX
 **[KNKX's Food For Thought](https://itunes.apple.com/us/podcast/food-for-thought/id573241690?mt=2)**  
 **[KNKX's Going Places](https://itunes.apple.com/us/podcast/going-places/id1172566428?mt=2)**  
 **[KNKX's Jazz Northwest](https://itunes.apple.com/us/podcast/jazz-northwest/id573243253?mt=2)**  
