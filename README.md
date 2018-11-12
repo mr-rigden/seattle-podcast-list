@@ -6,7 +6,6 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 *These are shows that have a regional focus on Seattle.*
 
 **[The Age of Independents](https://indie.biz/blog)**  
-**[Baked and Awake](http://bakedandawake.com/)**  
 **[The Fabulous Peltoncast](http://sonicscentral.com/peltoncast/)**  
 **[HellaBlackHellaSeattle](https://www.hellablackhellaseattle.com/)**  
 **[Here in Seattle](http://www.hereinseattle.com/podcast/)**  
@@ -76,6 +75,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[almostchill](https://itunes.apple.com/us/podcast/almostchill/id1434383933?mt=2)**  
 **[ALOTOFTHINGS](https://itunes.apple.com/us/podcast/alotofthings/id1288224301?mt=2)**  
 **[ArchitectureTalk](http://architecturetalk.org/)**  
+**[Baked and Awake](http://bakedandawake.com/)**  
 **[Blabbermouth](https://itunes.apple.com/us/podcast/blabbermouth/id993331808?mt=2)**  
 **[Black & A Half](http://blackandahalf.com/)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
