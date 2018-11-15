@@ -93,6 +93,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)**  
 **[Fake Geek Girls](http://fakegeekgirlscast.com/)**  
 **[The Fit Mess  Podcast](http://www.thefitmess.com/category/podcasts/)**  
+**[ From Da Bottom Podcast](https://www.spreaker.com/user/fromdabottom)**  
 **[The Galerie Conversation](http://thegalerieconversation.libsyn.com/)**  
 **[Hidden Jukebox](https://www.hiddenjukebox.com)**  
 **[Hoopsmack](https://www.hoopsmack.com/)**  
