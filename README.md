@@ -58,7 +58,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Cascadia Hockey Podcast](http://cascadiahockeypodcast.libsyn.com/)**  
 **[Cascadia News Now](https://www.cascadianewsnow.com/)**  
 **[Cascadia Podcast](https://itunes.apple.com/us/podcast/cascadia-podcast/id1399327345?mt=2)**  
-**[Cascadian Beer Podcast](https://radiocascadia.libsyn.com/)** 
+**[Cascadian Beer Podcast](https://radiocascadia.libsyn.com/)**  
 **[Geeks of Cascadia](https://itunes.apple.com/us/podcast/geeks-of-cascadia/id1249748521?mt=2)**  
 **[Radio Cascadia](https://cascadian.beer/)**  
 **[True Crime Cascadia](http://truecrimecascadia.libsyn.com/website)**  
@@ -127,10 +127,10 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Tenta Podcast](https://anchor.fm/tenta)** 
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture        
-**[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)** 
+**[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)**  
 **[TV times Three Podcast](https://itunes.apple.com/us/podcast/tv-times-three-podcast/id292019397?mt=2&ign-mpt=uo%3D4)**  
 **[Two Paychecks Podcast](https://itunes.apple.com/us/podcast/two-paychecks-podcast/id1349023848?mt=2)**  
-**[Unpopular Front](https://unpopularfront.com)**
+**[Unpopular Front](https://unpopularfront.com)**  
 **[We The People with Nina Turner](https://itunes.apple.com/us/podcast/we-the-people-with-nina-turner/id1394105352?mt=2)**  
 **[A Word on Plays](https://itunes.apple.com/us/podcast/a-word-on-plays/id1300418497?mt=2&fbclid=IwAR1xtCXVVH3OWa4PoC5XUWEog0XQbd5u1ufQLItMohWAd5CVKGHdkfbsYlM)**  
 **[You Can Sit With Us](https://anchor.fm/you-can-sit-with-us)**  
