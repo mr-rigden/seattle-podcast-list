@@ -102,6 +102,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Law of Startups](https://itunes.apple.com/us/podcast/the-law-of-startups/id972944771?mt=2)**  
 **[Less Talk, More Monkey from Archie McPhee](https://itunes.apple.com/us/podcast/less-talk-more-monkey-from-archie-mcphee/id1385175136?mt=2)**  
 **[Misery Point Radio](http://miserypointradio.podbean.com/)**  
+**[Mohr Please](https://www.mohrpleasepodcast.com/)**  
 **[Mouthy Messy Mandatory](https://itunes.apple.com/us/podcast/mouthy-messy-mandatory/id1313163555?mt=2)**  
 **[The Nori Podcast](https://nori.com/podcast)**  
 **[On The Edge with Mike Peacock](http://ontheedgepodcast.podbean.com/)**  
@@ -126,7 +127,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.  
 **[Tenta Podcast](https://anchor.fm/tenta)** 
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
-**[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture        
+**[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture  
 **[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)**  
 **[TV times Three Podcast](https://itunes.apple.com/us/podcast/tv-times-three-podcast/id292019397?mt=2&ign-mpt=uo%3D4)**  
 **[Two Paychecks Podcast](https://itunes.apple.com/us/podcast/two-paychecks-podcast/id1349023848?mt=2)**  
