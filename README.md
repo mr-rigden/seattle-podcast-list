@@ -125,7 +125,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[So Divine!](http://stephaniegailing.com/so-divine-the-podcast/)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Talking Cryptocurrency](https://jasonrigden.com/categories/talking-cryptocurrency)**  - Interviews the people making the cryptocurrency and blockchain revolution happen.  
-**[Tenta Podcast](https://anchor.fm/tenta)** 
+**[Tenta Podcast](https://anchor.fm/tenta)**  
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture  
 **[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)**  
@@ -142,7 +142,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 *These shows are from local radio stations*
 
 #### Podcasts From KEXP
-**[KEXP's Song of the Day](https://www.kexp.org/podcasts/song-of-the-day/)**
+**[KEXP's Song of the Day](https://www.kexp.org/podcasts/song-of-the-day/)**  
 **[KEXP's Mind Over Matters](https://www.kexp.org/podcasts/mind-over-matters-sustainability-segment/)**  
 **[KEXP's Music That Matters](https://www.kexp.org/podcasts/music-matters/)**  
 
