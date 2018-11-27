@@ -111,6 +111,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Podcasta la Vista, Baby!](http://podcastalavistababy.com/)**  
 **[The Podworms Spacecast](https://pwspacecast.podbean.com/)**  
 **[Poly Weekly](http://polyweekly.libsyn.com/)**  
+**[The Powell Movement](http://www.thepowellmovement.com/)**  
 **[The Psychology In Seattle Podcast](https://psychologyinseattle.squarespace.com/)**  
 **[Radio vs. the Martians!](http://radiovsthemartians.com/)**  
 **[Seattle Mama Doc](http://seattlemamadoc.seattlechildrens.org/)**  
