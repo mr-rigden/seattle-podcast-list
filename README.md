@@ -110,6 +110,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
 **[Philosophize This](http://philosophizethis.org/)**  
 **[Podcasta la Vista, Baby!](http://podcastalavistababy.com/)**  
+**[PodScure](http://www.podscure.com/)**  
 **[The Podworms Spacecast](https://pwspacecast.podbean.com/)**  
 **[Poly Weekly](http://polyweekly.libsyn.com/)**  
 **[The Powell Movement](http://www.thepowellmovement.com/)**  
