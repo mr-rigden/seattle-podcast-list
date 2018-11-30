@@ -93,6 +93,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
 **[The Desk Set](https://kcls.org/browse_program/the-desk-set-podcast/)**   
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
+**[The Emulsion Podcast](https://itunes.apple.com/us/podcast/theemulsion-podcast/id1225091020?mt=2)**  
 **[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)**  
 **[Fake Geek Girls](http://fakegeekgirlscast.com/)**  
 **[The Fit Mess  Podcast](http://www.thefitmess.com/category/podcasts/)**  
