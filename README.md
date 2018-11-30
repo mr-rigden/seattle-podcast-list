@@ -133,6 +133,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[That's Weird](http://www.thatsweird.org/)**  
 **[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture  
+**[Town Talk Podcast](https://itunes.apple.com/us/podcast/town-talk/id1166765811?mt=2)**  
 **[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)**  
 **[TV times Three Podcast](https://itunes.apple.com/us/podcast/tv-times-three-podcast/id292019397?mt=2&ign-mpt=uo%3D4)**  
 **[Two Paychecks Podcast](https://itunes.apple.com/us/podcast/two-paychecks-podcast/id1349023848?mt=2)**  
