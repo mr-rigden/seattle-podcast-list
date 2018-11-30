@@ -86,15 +86,16 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
 **[Cinema Squabble](http://www.cinemasquabble.com/)**  
 **[Cold Cans](https://coldcanspodcast.com/)**  
+**[Content Strategy Interviews Podcast](https://ellessmedia.com/csi/)**  
 **[Cosing A Problem](http://handcannononline.com/blog/category/podcasting/cosing-a-problem/)**  
 **[Dead Beat Film Society](http://deadbeatfilmsociety.libsyn.com/)**   
 **[Dented Dimension](http://denteddimension.com)** - Synthesizing Perfection on Earth  
-**[The Desk Set]()**   
+**[The Desk Set](https://kcls.org/browse_program/the-desk-set-podcast/)**   
 **[Dirtbag Diaries](http://dirtbagdiaries.com)**  
 **[Euphomet](https://itunes.apple.com/us/podcast/euphomet/id991129779?mt=2)**  
 **[Fake Geek Girls](http://fakegeekgirlscast.com/)**  
 **[The Fit Mess  Podcast](http://www.thefitmess.com/category/podcasts/)**  
-**[ From Da Bottom Podcast](https://www.spreaker.com/user/fromdabottom)**  
+**[From Da Bottom Podcast](https://www.spreaker.com/user/fromdabottom)**  
 **[The Galerie Conversation](http://thegalerieconversation.libsyn.com/)**  
 **[Hidden Jukebox](https://www.hiddenjukebox.com)**  
 **[Hoopsmack](https://www.hoopsmack.com/)**  
