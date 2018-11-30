@@ -112,7 +112,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[On The Edge with Mike Peacock](http://ontheedgepodcast.podbean.com/)**  
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
 **[Philosophize This](http://philosophizethis.org/)**  
-**[Podcast Junkie](https://podcastjunkie.podbean.com/)** From Vancouver, Wa. but close enough.   
+**[Podcast Junkie](https://podcastjunkie.podbean.com/)** (From Vancouver, Wa. but close enough.)   
 **[Podcasta la Vista, Baby!](http://podcastalavistababy.com/)**  
 **[PodScure](http://www.podscure.com/)**  
 **[The Podworms Spacecast](https://pwspacecast.podbean.com/)**  
