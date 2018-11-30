@@ -38,6 +38,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 
 #### Podcasts About The Seattle Seahawks
 **[HawkBlogger](https://itunes.apple.com/us/podcast/hawkblogger-thoughtful-fun-analysis-seattle-seahawks/id1153170207?mt=2)**  
+**[Man 2 Man Podcast](https://itunes.apple.com/us/podcast/man-2-man-podcast/id1242347126?mt=2&i=1000385954424)**  
 **[The Sea Hawkers Podcast](https://seahawkerspodcast.com/)**  
 **[Tasteful Profanity: A Beast Pode Production](https://soundcloud.com/beastpode)**  
 
