@@ -112,7 +112,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[On The Edge with Mike Peacock](http://ontheedgepodcast.podbean.com/)**  
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
 **[Philosophize This](http://philosophizethis.org/)**  
-**[Podcast Junkie](https://podcastjunkie.podbean.com/)**  
+**[Podcast Junkie](https://podcastjunkie.podbean.com/)** From Vancouver, Wa. but close enough.   
 **[Podcasta la Vista, Baby!](http://podcastalavistababy.com/)**  
 **[PodScure](http://www.podscure.com/)**  
 **[The Podworms Spacecast](https://pwspacecast.podbean.com/)**  
@@ -192,7 +192,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KUOW's How to Be a Girl](https://www.kuow.org/podcasts/how-to-be-a-girl)**  
 **[KUOW's Second Wave](https://www.kuow.org/podcasts/second-wave)**  
 **[KUOW's terrestrial](https://www.kuow.org/podcasts/terrestrial)**  
-**[Seattleland](https://seattlelandpod.com/)**  
+**[Seattleland](https://seattlelandpod.com/)**  vancouver
 **[The Seattle Files with Chris Allen](http://theseattlefiles.com/)**  
 **[Seattle Real Estate Radio](https://itunes.apple.com/us/podcast/seattle-real-estate-radio/id1206722830?mt=2)**  
 **[The Other Washington](https://itunes.apple.com/us/podcast/the-other-washington/id1081134368?mt=2)**  
