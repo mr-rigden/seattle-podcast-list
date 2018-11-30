@@ -192,7 +192,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[KUOW's How to Be a Girl](https://www.kuow.org/podcasts/how-to-be-a-girl)**  
 **[KUOW's Second Wave](https://www.kuow.org/podcasts/second-wave)**  
 **[KUOW's terrestrial](https://www.kuow.org/podcasts/terrestrial)**  
-**[Seattleland](https://seattlelandpod.com/)**  vancouver
+**[Seattleland](https://seattlelandpod.com/)**  
 **[The Seattle Files with Chris Allen](http://theseattlefiles.com/)**  
 **[Seattle Real Estate Radio](https://itunes.apple.com/us/podcast/seattle-real-estate-radio/id1206722830?mt=2)**  
 **[The Other Washington](https://itunes.apple.com/us/podcast/the-other-washington/id1081134368?mt=2)**  
