@@ -80,6 +80,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Black & A Half](http://blackandahalf.com/)**  
 **[The Blockchain Buzz](https://www.theblockchain-buzz.com)**  
 **[Blockchain Conversations with Sean Johnston](https://itunes.apple.com/us/podcast/blockchain-conversations-with-sean-johnston/id1437328236?mt=2)**  
+**[Bigfoot and Bob](https://itunes.apple.com/us/podcast/bigfoot-and-bob/id1330898203)**  
 **[Book Lust with Nancy Pearl](https://itunes.apple.com/us/podcast/book-lust-with-nancy-pearl-seattle-channel/id1191895248?mt=2)**  
 **[Byte Me](https://itunes.apple.com/us/podcast/byte-me-podcast/id1186894180)**  
 **[The Chase Jarvis Live Podcast](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)**  
