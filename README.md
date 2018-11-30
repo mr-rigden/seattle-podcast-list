@@ -112,6 +112,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[On The Edge with Mike Peacock](http://ontheedgepodcast.podbean.com/)**  
 **[Peculiar Podcast](http://www.peculiarpodcast.com)**  
 **[Philosophize This](http://philosophizethis.org/)**  
+**[Podcast Junkie](https://podcastjunkie.podbean.com/)**  
 **[Podcasta la Vista, Baby!](http://podcastalavistababy.com/)**  
 **[PodScure](http://www.podscure.com/)**  
 **[The Podworms Spacecast](https://pwspacecast.podbean.com/)**  
@@ -135,7 +136,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Tenta Podcast](https://anchor.fm/tenta)**  
 **[TBTL- Too Beautiful to Live](https://www.apmpodcasts.org/tbtl/)**  
 **[That's Weird](http://www.thatsweird.org/)**  
-**[Town Hall Podcasts](https://townhallseattle.org/podcasts/)** - Civics, Science, Arts & Culture  
+**[Town Hall Podcasts](https://townhallseattle.org/podhttp://polyweekly.libsyn.com/casts/)** - Civics, Science, Arts & Culture  
 **[Town Talk Podcast](https://itunes.apple.com/us/podcast/town-talk/id1166765811?mt=2)**  
 **[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)**  
 **[TV times Three Podcast](https://itunes.apple.com/us/podcast/tv-times-three-podcast/id292019397?mt=2&ign-mpt=uo%3D4)**  
