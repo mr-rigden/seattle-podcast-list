@@ -1,4 +1,4 @@
-# A Complete List of Seattle Podcast List
+# A Complete List of Seattle Podcasts
 
 This is a list of the podcasts being produced in the Seattle metropolitan area. I would like this list of Seattle podcasts to be as complete as possible. Any podcast in Seattle or anywhere nearby can be added. [Contributions, corrections, and suggestions are welcome.](https://github.com/jrigden/seattle-podcast-list/issues "Contributions, corrections, and suggestions are welcome.") You can also DM me on Twitter: [@mr_rigden](https://twitter.com/mr_rigden) If there are similar lists for Portland or Vancouver, I would love to link to them.
 
