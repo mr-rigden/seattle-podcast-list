@@ -166,7 +166,6 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[The Civil Experiment](http://uwpodcast.com/the-civil-experiment/)**  
 **[CreaturePasta](http://www.digitalanddice.com/creaturepasta.html)**  
 **[Depolarize! Podcast ](https://www.badchristian.com/podcast/depolarize/)**   
-**[Depolarize! Podcast ](https://www.badchristian.com/podcast/depolarize/)**   
 **[The Desk Set](https://kcls.org/browse_program/the-desk-set-podcast/)**   
 **[Design Can Save the World](https://dcstwpod.com/)**  
 **[A Disney Family Podcast](https://anchor.fm/a-disney-family-podcast/)**  
@@ -181,6 +180,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Gayside Stories](https://itunes.apple.com/us/podcast/gayside-stories/id1198763982?mt=2)**  
 **[Get Naked with Alix](https://getnaked.blubrry.net/subscribe-to-podcast/)**  
 **[HellaBlackHellaSeattle](https://www.hellablackhellaseattle.com/)**  
+**[Here Be Monsters](https://www.hbmpodcast.com/)**  
 **[Here in Seattle](http://www.hereinseattle.com/podcast/)**  
 **[Hole In The Head Moto](https://www.holeintheheadmoto.com/)**  
 **[Hoopsmack](https://www.hoopsmack.com/)**  
@@ -337,4 +337,8 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[You, Me, Us, Now](https://itunes.apple.com/us/podcast/you-me-us-now/id981963609?mt=2)**  
 
 
+
 </div>
+
+<hr>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; max-width: 5rem;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
