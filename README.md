@@ -36,6 +36,7 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 **[Shifties Podcast](https://soundcloud.com/shiftiespodcast)**  
 **[Spilled Milk](https://www.spilledmilkpodcast.com)**  
 **[Trash Food for Garbage People](https://www.trashfoodpodcast.com/)**  
+**[Your Last Meal with Rachel Belle](https://itunes.apple.com/us/podcast/your-last-meal-with-rachel-belle/id1140304624)**  
 
 
 ## Seattle Podcasts About Geek Culture
@@ -303,7 +304,6 @@ This is a list of the podcasts being produced in the Seattle metropolitan area. 
 ## Podcasts From KIRO
 **[KIRO's GeekWire](http://mynorthwest.com/category/podcast_results/?sid=1000&n=GeekWire)**  
 **[KIRO's Seattle Kitchen](http://mynw.wpengine.com/category/podcast_results/?sid=1045&n=Seattle%20Kitchen)**  
-**[KIRO's Your Last Meal](http://mynorthwest.com/category/podcast_results/?sid=1148&n=Your%20Last%20Meal%20with%20Rachel%20Belle)**  
 
 ## Podcasts From KNKX
 **[KNKX's Food For Thought](https://itunes.apple.com/us/podcast/food-for-thought/id573241690?mt=2)**  
