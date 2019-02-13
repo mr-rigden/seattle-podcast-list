@@ -257,3 +257,9 @@ https://www.spreaker.com/show/3298691/episodes/feed
 https://www.spreaker.com/user/8240787/episodes/feed
 https://www.theblockchain-buzz.com/podcastsforitunes?format=rss
 https://www.trashfoodpodcast.com/?format=rss
+http://radiovsthemartians.com/feed/podcast/
+http://podcastalavistababy.com/feed/podcast
+http://feeds.podiant.co/procheerleadingpodcast/rss.xml
+http://feeds.soundcloud.com/users/soundcloud:users:578617686/sounds.rss
+https://booksinheinessight.libsyn.com/rss
+https://rss.simplecast.com/podcasts/9547/rss

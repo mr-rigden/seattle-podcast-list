@@ -202,8 +202,8 @@ for rss_url in rss_urls:
     except:
         print("    cover art fail for " + podcast.title)
         continue
-    #podcast.homepage = get_homepage(response.content) 
-    podcast.homepage = "monkey"
+    podcast.homepage = get_homepage(response.content) 
+    #podcast.homepage = "monkey"
     podcasts.append(podcast)
     add_itunes_categories(podcast.itunes_categories)
     #print(podcast.itunes_keywords)
