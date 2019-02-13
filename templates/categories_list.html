@@ -1,0 +1,17 @@
+{% include 'top.html' %}
+
+<div class="row podcast">
+    <div class="col-12">
+        <h1 class="text-center">Categories</h1>
+
+        <ul class="list-group list-group-flush">
+            {% for category in categories %}
+                <li class="list-group-item">
+                    <a href="{{ DATA.BASE_URL }}/categories/{{categories_slugs[loop.index - 1]}}">{{category}}</a>    
+                </li>
+            {% endfor %}           
+        </ul>
+    </div>
+</div>
+
+{% include 'bottom.html' %}
