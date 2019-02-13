@@ -1,11 +1,14 @@
 {% include 'top.html' %}
-<div class="message">
-    <h1 class="text-center ">{{ message }}</h1>
-    {% if message == "The Seattle Podcast List" %}
-    <p class="text-justify">This is a list of the podcasts being produced in the Seattle metropolitan area. We would like this list of Seattle podcasts to be as complete as possible. Any podcast in Seattle or anywhere nearby can be added.</p>
-    {% endif %}
+<div class="row">
+    <div class="col-12">
+        <div class="message">
+            <h1 class="text-center ">{{ message }}</h1>
+            {% if message == "The Seattle Podcast List" %}
+            <p class="text-justify">This is a list of the podcasts being produced in the Seattle metropolitan area. We would like this list of Seattle podcasts to be as complete as possible. Any podcast in Seattle or anywhere nearby can be added.</p>
+            {% endif %}
+        </div>
+    </div>
 </div>
-
 {% for podcast in active_podcasts %}
     <div class="row podcast">
         <div class="col-3">
@@ -25,9 +28,13 @@
 
 
 {% if inactive_podcasts %}
-<hr>
-<h3 class="text-center ">Inactive Podcasts</h3>
-<p class="text-center ">This podcast have not released a new episode in the last 90 days.</p>
+<div class="row">
+    <div class="col-12">
+        <hr>
+        <h3 class="text-center ">Inactive Podcasts</h3>
+        <p class="text-center ">This podcast have not released a new episode in the last 90 days.</p>
+    </div>
+</div>
 {% endif %}
 {% for podcast in inactive_podcasts %}
     <div class="row podcast">
