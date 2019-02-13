@@ -9,7 +9,7 @@
 {% for podcast in active_podcasts %}
     <div class="row podcast">
         <div class="col-3">
-            <a href="{{ podcast.homepage }}"><img src="{{base_url}}/cover_art/{{ podcast.cover_art }}" alt="..." class="img-thumbnail"></a>
+            <a href="{{ podcast.homepage }}"><img src="{{ DATA.BASE_URL }}/cover_art/{{ podcast.cover_art }}" alt="..." class="img-thumbnail"></a>
         </div>
         <div class="col-9 podcast-text">
             <h4 class="podcast-title">
@@ -32,7 +32,7 @@
 {% for podcast in inactive_podcasts %}
     <div class="row podcast">
         <div class="col-3">
-            <a href="{{podcast.homepage}}"><img src="{{base_url}}/cover_art/{{ podcast.cover_art }}" alt="..." class="img-thumbnail"></a>
+            <a href="{{podcast.homepage}}"><img src="{{ DATA.BASE_URL }}/cover_art/{{ podcast.cover_art }}" alt="..." class="img-thumbnail"></a>
         </div>
         <div class="col-9 podcast-text">
             <h5 class="podcast-title">
