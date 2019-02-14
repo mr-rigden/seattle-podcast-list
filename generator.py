@@ -230,6 +230,12 @@ for rss_url in rss_urls:
     if not podcast.title:
         feeds_with_no_title.append(rss_url)
         continue
+
+    if podcast.subtitle is None:
+        podcast.subtitle = ""
+    if podcast.summary is None:
+        podcast.summary = ""
+
     
     podcast.better_sortable_title = better_sortable_text(podcast.title)
     podcast.cover_art = slugify(podcast.title) + ".jpeg"
