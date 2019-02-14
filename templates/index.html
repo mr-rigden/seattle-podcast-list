@@ -47,7 +47,10 @@
             <h5 class="podcast-title">
                 <a href="{{podcast.homepage}}">{{ podcast.title }}</a>    
             </h5>
-            <p class="text-justify">{{ podcast.description }}</p>
+            <p class="text-justify">
+                {{ podcast.subtitle }}
+                <br>    
+                {{ podcast.summary }}</p>
         </div>
     </div>
 {% endfor %}
