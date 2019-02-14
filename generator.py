@@ -28,6 +28,7 @@ import urllib.request
 from pyPodcastParser.Podcast import Podcast
 
 from bs4 import BeautifulSoup
+import feedparser
 from jinja2 import Environment, FileSystemLoader
 from PIL import Image, ImageFile
 import requests
@@ -89,7 +90,6 @@ def alphabetize_podcasts(podcasts):
     return alphabetizes_podcasts
 
 def is_podcast_active(podcast):
-    print("Checking deadline for" + podcast.rss_url)
     sorted_items = sorted(podcast.items, key=lambda x: x.date_time, reverse=True)
     try:
         if deadline > sorted_items[0].date_time:
@@ -127,7 +127,7 @@ def generate_category_list():
     for category in active_categories:
         if category in blocked_category:
             active_categories.remove(category)
-    print(active_categories)
+    #print(active_categories)
     categories = list(set(active_categories))
     categories = [i for i in categories if i] 
     categories.sort()
@@ -174,13 +174,16 @@ def add_itunes_categories(categories):
         if not None:
             active_categories.append(each)
 
-def get_homepage(content):
-    soup = BeautifulSoup(content, "xml")
-    links = soup.find_all('link')
-    for link in links:
-        if str(link).startswith("<link>"):
-            return link.string
-    
+# def get_homepage(content):
+#     soup = BeautifulSoup(content, "xml")
+#     links = soup.find_all('link')
+#     for link in links:
+#         if str(link).startswith("<link>"):
+#             return link.string
+
+
+def get_homepage(podcast):
+    print("x")
 
 with open(config.DATA['RSS_LIST_PATH']) as f:
     rss_urls = f.readlines()
@@ -191,7 +194,7 @@ for rss_url in rss_urls:
     print(rss_url)
     response = requests.get(rss_url)
     podcast = Podcast(response.content)
-    print(podcast.title)
+    parsed_rss = feedparser.parse(response.content)
     podcast.rss_url = rss_url
     if podcast.title is None:
         podcast.title = "Title Error"
@@ -202,12 +205,11 @@ for rss_url in rss_urls:
     except:
         print("    cover art fail for " + podcast.title)
         continue
-    podcast.homepage = get_homepage(response.content) 
-    #podcast.homepage = "monkey"
+    podcast.homepage = parsed_rss['feed']['link']
     podcasts.append(podcast)
     add_itunes_categories(podcast.itunes_categories)
-    #print(podcast.itunes_keywords)
-    #keywords.extend(podcast.itunes_keywords)
+
+
 
 
 
