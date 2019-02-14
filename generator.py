@@ -227,6 +227,9 @@ for rss_url in rss_urls:
     except KeyError:
         feeds_with_no_title.append(rss_url)
         continue
+    if not podcast.title:
+        feeds_with_no_title.append(rss_url)
+        continue
     
     podcast.better_sortable_title = better_sortable_text(podcast.title)
     podcast.cover_art = slugify(podcast.title) + ".jpeg"
