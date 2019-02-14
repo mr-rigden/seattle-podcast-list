@@ -16,13 +16,16 @@
         </div>
         <div class="col-9 podcast-text">
             <h4 class="podcast-title">
-                <a href="{{podcast.homepage}}">{{ podcast.title }}</a>    
+                <a href="{{podcast.homepage}}">{{ podcast.title }}</a>
             </h4>
-            <p class="text-justify">
-                {{ podcast.subtitle }}
-                <br>
-                {{ podcast.summary }}
-            </p>
+            
+                <p class="text-justify">
+                    {% if podcast.subtitle|striptags|length %}
+                        <em>{{ podcast.subtitle |striptags}}</em><br>
+                    {% endif %}
+                    {{ podcast.summary |striptags}}
+                </p>
+            
 
         </div>
     </div>
@@ -48,9 +51,10 @@
                 <a href="{{podcast.homepage}}">{{ podcast.title }}</a>    
             </h5>
             <p class="text-justify">
-                {{ podcast.subtitle }}
-                <br>    
-                {{ podcast.summary }}</p>
+                {% if podcast.subtitle|striptags|length %}
+                    <em>{{ podcast.subtitle |striptags}}</em><br>
+                {% endif %}
+                {{ podcast.summary |striptags}}
         </div>
     </div>
 {% endfor %}
