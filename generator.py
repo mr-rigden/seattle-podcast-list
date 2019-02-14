@@ -49,6 +49,12 @@ active_categories = []
 keywords = []
 podcasts = []
 
+feeds_with_no_links = []
+feeds_with_no_title = []
+feeds_with_failed_cover_art = []
+
+
+
 def generate_cover_art(podcast):
     cover_art_dir = config.DATA['OUTPUT_DIR']  + "cover_art/"
     size = 150, 150
@@ -182,8 +188,21 @@ def add_itunes_categories(categories):
 #             return link.string
 
 
-def get_homepage(podcast):
-    print("x")
+
+
+
+def print_report():
+    print("These feeds seem to lack links")
+    for each in feeds_with_no_links:
+        print("    " + each)
+
+    print("These feeds seem to have no title")
+    for each in feeds_with_no_title:
+        print("    " + each)
+
+    print("These feeds seem to failed art")
+    for each in feeds_with_failed_cover_art:
+        print("    " + each)
 
 with open(config.DATA['RSS_LIST_PATH']) as f:
     rss_urls = f.readlines()
@@ -195,17 +214,28 @@ for rss_url in rss_urls:
     response = requests.get(rss_url)
     podcast = Podcast(response.content)
     parsed_rss = feedparser.parse(response.content)
+
+    try:
+        podcast.homepage = parsed_rss['feed']['link']
+    except KeyError:
+        feeds_with_no_links.append(rss_url)
+        continue
     podcast.rss_url = rss_url
-    if podcast.title is None:
-        podcast.title = "Title Error"
+
+    try:
+        podcast.title = parsed_rss['feed']['title']
+    except KeyError:
+        feeds_with_no_title.append(rss_url)
+        continue
+    
     podcast.better_sortable_title = better_sortable_text(podcast.title)
     podcast.cover_art = slugify(podcast.title) + ".jpeg"
     try:
         generate_cover_art(podcast)
     except:
         print("    cover art fail for " + podcast.title)
+        feeds_with_failed_cover_art.append(rss_url)
         continue
-    podcast.homepage = parsed_rss['feed']['link']
     podcasts.append(podcast)
     add_itunes_categories(podcast.itunes_categories)
 
@@ -217,3 +247,4 @@ for rss_url in rss_urls:
 generate_index()
 generate_category_pages()
 generate_category_list()
+print_report()
