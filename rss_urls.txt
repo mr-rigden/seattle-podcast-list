@@ -263,3 +263,4 @@ http://feeds.podiant.co/procheerleadingpodcast/rss.xml
 http://feeds.soundcloud.com/users/soundcloud:users:578617686/sounds.rss
 https://booksinheinessight.libsyn.com/rss
 https://rss.simplecast.com/podcasts/9547/rss
+https://anchor.fm/s/888725c/podcast/rss
